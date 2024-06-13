@@ -1,0 +1,32 @@
+git --version //for checking version
+
+git init  //for initialisation
+
+git add file name  //adding files
+
+git status  //status of files
+
+git add .  //add all file at a time 
+git add -A 
+
+git commit -m"intial commit"  //commiting files or make file permanent
+
+git log  //for login or check update status 
+
+git remote  //to check remote repo is connected
+
+git remote add  //create a new connection record to remote repository
+
+git push origin master  // pushing code to the master branch
+
+git pull origin master  // git fetches the latest changes from the remote master branch and merge them into your local branch 
+
+git branch  // to check which branch 
+
+git branch "name"   //create sub branch
+
+git checkout branchname  // change branch 
+
+git push origin branchname  // pushing code to branch
+
+git clone  //copies an existing git reprositry  
